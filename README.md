@@ -80,7 +80,7 @@ Compiling and deploying an ERC-20 contract on **Sepolia testnet** using Hardhat 
 
 1. The project directory contains a `contracts` directory with a `Lock.sol` file. Delete it.
 2. Create a new file in the `contracts` directory called `MyToken.sol`.
-3. Copy and paste the following code into `MyToken.sol` **after** replacing `XYZ` with your initials. For example, my initials would be `SV`.
+3. Copy and paste the following code into `MyToken.sol` **after** replacing `XYZ` with your initials. For example, my initials would be `KSA`.
 
     ```javascript
     //SPDX-License-Identifier: Unlicense
