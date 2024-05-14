@@ -137,9 +137,9 @@ Compiling and deploying an ERC-20 contract on **Sepolia testnet** using Hardhat 
     ```
 8. Go to [https://sepolia.etherscan.io/token/[Your Token Address]](https://goerli.etherscan.io/) to see the token details. Notice that you have to enter the address of the newly created token in the URL.
 
-9.  Follow the instructions in sections 4.1, 4.2 [here](https://www.respectedsir.com/ethlab/erc20/erc20.html) to deploy an ERC-20 token contract.
+9.  Follow the instructions in sections 4.1, and 4.2 [here](https://www.respectedsir.com/ethlab/erc20/erc20.html) to deploy an ERC-20 token contract.
 10. Follow the instructions in section 4.3 [here](https://www.respectedsir.com/ethlab/erc20/erc20.html) to transfer some your tokens to a different addresss.
 
-11.    - My Sepolia ERC-20 contract: [HERE](https://sepolia.etherscan.io/address/0x73Af15775Fe4de5a62cbee0516465Fa8eBB125D0)
+11. My Sepolia ERC-20 contract: [HERE](https://sepolia.etherscan.io/address/0x73Af15775Fe4de5a62cbee0516465Fa8eBB125D0)
 
-    - Sepolia Transaction transferring my token: [HERE](https://sepolia.etherscan.io/tx/0x3c0dbfa16ce9b5185cd34d774a225dac5460c83b02df0c8340c0a7910370dbc4)
+12. Sepolia Transaction transferring my token: [HERE](https://sepolia.etherscan.io/tx/0x3c0dbfa16ce9b5185cd34d774a225dac5460c83b02df0c8340c0a7910370dbc4)
